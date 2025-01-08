@@ -1,0 +1,19 @@
+{
+  "name": "book-store-api",
+  "version": "1.0.0",
+  "description": "Book-store-api is created to better understand development of REST api using ExpressJs and use of MongoDb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9"
+  }
+}
